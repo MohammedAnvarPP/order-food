@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/order-food/static/css/main.5e414ab1.css",
-    "main.js": "/order-food/static/js/main.4850825a.js",
+    "main.css": "/order-food/static/css/main.554fb07e.css",
+    "main.js": "/order-food/static/js/main.d5809b0a.js",
     "static/media/burger.jpg": "/order-food/static/media/burger.c6945a6ba64b26b30271.jpg",
     "index.html": "/order-food/index.html",
-    "main.5e414ab1.css.map": "/order-food/static/css/main.5e414ab1.css.map",
-    "main.4850825a.js.map": "/order-food/static/js/main.4850825a.js.map"
+    "main.554fb07e.css.map": "/order-food/static/css/main.554fb07e.css.map",
+    "main.d5809b0a.js.map": "/order-food/static/js/main.d5809b0a.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e414ab1.css",
-    "static/js/main.4850825a.js"
+    "static/css/main.554fb07e.css",
+    "static/js/main.d5809b0a.js"
   ]
 }
